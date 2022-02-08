@@ -1,0 +1,3 @@
+/media/gromovnik/Vice_SSD/02. Documents/CV/Applications/Oqton/Learning/Oqton_proto_cpp/src/build/CMakeFiles/rebuild_cache.dir
+/media/gromovnik/Vice_SSD/02. Documents/CV/Applications/Oqton/Learning/Oqton_proto_cpp/src/build/CMakeFiles/edit_cache.dir
+/media/gromovnik/Vice_SSD/02. Documents/CV/Applications/Oqton/Learning/Oqton_proto_cpp/src/build/CMakeFiles/oqton_icp.dir
