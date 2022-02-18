@@ -1,4 +1,4 @@
-# Install script for directory: /media/gromovnik/Vice_SSD/02. Documents/CV/Applications/Oqton/Learning/Oqton_proto_cpp/src
+# Install script for directory: /media/gromovnik/Vice_SSD/01. Oqton/Prototype/Oqton_proto_cpp/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/gromovnik/Vice_SSD/02. Documents/CV/Applications/Oqton/Learning/Oqton_proto_cpp/src/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/gromovnik/Vice_SSD/01. Oqton/Prototype/Oqton_proto_cpp/src/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
